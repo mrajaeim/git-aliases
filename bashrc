@@ -33,4 +33,4 @@ alias npm-sb="npm run storybook"
 
 # Network
 alias myip="curl ifconfig.me"
-alias sysip="ifconfig"
+alias sysip="ipconfig"
