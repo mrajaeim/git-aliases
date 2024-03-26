@@ -29,8 +29,8 @@ alias gsw="git switch"
 # dev
 alias npi="npm install"
 alias npui="npm uninstall"
-alias npm-dev="npm run dev"
-alias npm-sb="npm run storybook"
+alias npdv="npm run dev"
+alias npsb="npm run storybook"
 
 # Network
 alias myip="curl ifconfig.me"
