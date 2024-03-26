@@ -25,6 +25,7 @@ alias gsh="git stash -m"
 alias gshl="git stash list"
 alias gst="git status"
 alias gsw="git switch"
+alias greh="git reset --hard"
 
 # dev
 alias npi="npm install"
