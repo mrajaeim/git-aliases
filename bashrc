@@ -32,7 +32,7 @@ alias npi="npm install"
 alias npui="npm uninstall"
 alias npdv="npm run dev"
 alias npsb="npm run storybook"
-alias nvu="nvm use v"
+alias nvu="nvm use"
 alias nvlt="nvm use lts"
 
 # Network
